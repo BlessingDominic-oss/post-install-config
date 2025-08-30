@@ -118,8 +118,9 @@ Examples:
 ---
 
 ## Final Notes
-This now fully configures osTicket.  
-It is recommended to practice triaging and solving tickets.  
 
-This is a very important skill to have for any help desk specialist, as they are the first line of communication between a company and its customers when it comes to handling issues regarding a product or service they provide.
+At this point, osTicket is fully configured.  
+It is highly recommended to practice triaging and resolving tickets regularly.  
+
+Mastering this skill is essential for any help desk specialist, as they serve as the primary point of contact between a company and its customers when addressing issues related to products or services.
 
